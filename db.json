@@ -1,3 +1,8 @@
 {
-	"employeeOfTheMonth": {}
+	"employeeOfTheMonth": {
+		"name": "Akash Doppalapudi",
+		"position": "Software Developer",
+		"image": "https://github.com/akashdoppalapudi/database/blob/main/akash.jpeg",
+		"description": "Developer and Learner"
+	}
 }
